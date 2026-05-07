@@ -1,2 +1,4 @@
 # Bỏ qua file chứa API Key, KHÔNG ĐƯỢC PUSH
 .env
+
+venv/
